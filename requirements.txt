@@ -1,0 +1,8 @@
+Pillow
+pathlib2
+Sip
+PyQt5
+numpy
+scipy
+matplotlib
+lxml
