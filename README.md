@@ -8,7 +8,7 @@ with [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/)
 # Install
 
 ```
-git clone ssh://git@172.16.2.5:30001/PerXeption/Toolbox.git
+git clone https://github.com/DrawZeroPoint/via_toolbox
 
 # Optional
 pip install -r requirement.txt
